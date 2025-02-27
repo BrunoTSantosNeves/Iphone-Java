@@ -1,8 +1,8 @@
 package Implementations;
 
-import features.WebBroser;
+import features.WebBrowser;
 
-public class WebBroserimpl implements WebBroser{
+public class WebBrowserimpl implements WebBrowser{
     @Override
     public void openPage(String url){
         System.out.println("Abrindo página: " + url);
