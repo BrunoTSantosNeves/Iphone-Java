@@ -1,5 +1,7 @@
 package features;
 
-public class WebBroser {
-    
+public interface WebBroser {
+    void openPage(String url);
+    void refresh();
+    void goBack();
 }

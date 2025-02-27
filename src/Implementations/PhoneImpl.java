@@ -1,5 +1,5 @@
 package Implementations;
 
-public class IphoneIml {
+public class PhoneImpl {
     
 }
